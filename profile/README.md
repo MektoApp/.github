@@ -1,1 +1,1 @@
-# .github
+# Bem-vindo à Mekto
